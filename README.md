@@ -1,7 +1,7 @@
 # Python-para-zumbis-PPZ 💻
 
 <div>
-  <img align="left" alt="PPZ" height="220" width="160" src="https://github.com/MariaGabrielaReis/Python-for-Zombies/blob/main/zombie.png">
+  <img align="left" alt="PPZ" height="220" width="170" src="https://github.com/MariaGabrielaReis/Python-for-Zombies/blob/main/zombie.png">
 </div>
 
 <div align="float">
